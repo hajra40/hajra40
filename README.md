@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=hajra40&color=blue)
 <h1 align="center">Hi 👋, I'm Hajra</h1>
-<h3 align="center">A passionate frontend developer , coder & a Reactjs developer from India</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I am actively expanding my expertise as a **data scientist** by mastering advanced techniques in Python and Excel.
 
 - 📫 How to reach me **hajra.mshahid24@gmail.com**
 
