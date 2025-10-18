@@ -16,7 +16,7 @@ Data-driven fresher passionate about analyzing, visualizing, and uncovering patt
 
 ---
 
-### **Programming & Scripting Languages**
+## **Programming & Scripting Languages**
 - Python | SQL | MySQL | Scala | Shell Script | Markdown
 
 ### **Machine Learning & Data Science**
