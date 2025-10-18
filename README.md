@@ -1,10 +1,55 @@
 ![](https://komarev.com/ghpvc/?username=hajra40&color=blue)
-<h1 align="center">Hi 👋, I'm Hajra</h1>
 
-- 🌱 I am actively expanding my expertise as a **data scientist** by mastering advanced techniques in Python and Excel.
+# Aspiring Data Analyst | Passionate About Turning Data into Insights
 
-- 📫 How to reach me **hajra.mshahid24@gmail.com**
+Data-driven fresher passionate about analyzing, visualizing, and uncovering patterns from data. Completed multiple personal projects involving data cleaning, exploratory analysis, visualization, and storytelling. Eager to apply and grow my skills in real-world data roles.
 
+> Turning curiosity into code and data into insights.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
+
+## Highlights
+- Strong foundation in **SQL**, **Python (pandas, numpy, scikit-learn, seaborn)**, and data visualization.
+- Experience building end-to-end personal projects: data cleaning → analysis → interactive dashboards.
+- Comfortable with **PostgreSQL**, **Tableau**, **Power BI**, **Google Looker Studio**, & **AWS (basics)**.
+- Familiar with **workflow orchestration tools** like **Apache Airflow**, & **Docker**. 
+
+---
+
+### **Programming & Scripting Languages**
+- Python | SQL | MySQL | Scala | Shell Script | Markdown
+
+### **Machine Learning & Data Science**
+- TensorFlow | scikit-learn | pandas | NumPy | Keras
+
+### **Databases & Cloud**
+- PostgreSQL | AWS | Google Cloud
+
+### **Visualization & BI Tools**
+- Tableau | Power BI | Google Looker Studio
+
+### **Workflow & Automation Tools**
+- Apache Airflow | Notion | Jira
+
+### **Version Control & OS**
+- Git | Linux
+
+---
+
+## Quick Tips / Callouts
+- 💼 Open to **remote, on-site, or hybrid** job and internship opportunities.  
+- 🤝 Actively seeking **collaborations** on data projects and open-source analytics work.  
+- 💬 Open to **feedback, discussions, and networking** with fellow data practitioners.  
+- 🚀 Continuously learning — focused on leveling up skills to help various industries.
+
+---
+
+## Contact
+- Email: hajra.mshahid24@gmail.con  
+- LinkedIn: https://www.linkedin.com/in/hajra-m-a4a08a289
+- Fiverr: https://www.fiverr.com/hajra_mohd
+
+---
+
+## Github Stats
+![hajra40's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hajra40&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
