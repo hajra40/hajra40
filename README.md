@@ -34,6 +34,9 @@ Data-driven fresher passionate about analyzing, visualizing, and uncovering patt
 ### **Version Control & OS**
 - Git | Linux
 
+### **Web Development**
+- HTML | CSS | JS | React.js | Node.js | MongoDB | Express.js
+
 ---
 
 ## Quick Tips / Callouts
@@ -52,4 +55,6 @@ Data-driven fresher passionate about analyzing, visualizing, and uncovering patt
 ---
 
 ## Github Stats
+![hajra40's Stats](https://github-readme-stats.vercel.app/api?username=hajra40&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![hajra40's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hajra40&theme=blueberry&hide_border=true)
 ![hajra40's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hajra40&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
